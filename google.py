@@ -9,7 +9,6 @@ elem = driver.find_element_by_name("q")
 elem.send_keys("BAYC NFT")
 elem.send_keys(Keys.RETURN)
 
-
 SCROLL_PAUSE_TIME = 1
 
 # Get scroll height
